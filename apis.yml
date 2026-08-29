@@ -32,6 +32,9 @@ description: Beijing Aeonmed Co., Ltd. is a Chinese medical device manufacturer 
   sold in more than 160 countries. In 2019 Aeonmed acquired HEYER Medical AG of Germany. The company is
   a portfolio company of Qiming Venture Partners. Aeonmed publishes no public API or developer program.
 url: https://raw.githubusercontent.com/api-evangelist/aeonmed/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Aeonmed publishes no public API or developer program."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
